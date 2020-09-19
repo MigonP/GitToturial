@@ -1,0 +1,65 @@
+    1  ls
+    2  pwd
+    3  ls
+    4  cd ..
+    5  ls
+    6  cd /home
+    7  ls
+    8  mkdir PiecaraRepo
+    9  ls
+   10  cd /PiecaraRepo
+   11  cd PiecaraRepo
+   12  git init
+   13  git add README.md
+   14  touch REDME.md
+   15  git add README.md
+   16  git add REDME.md
+   17  git commit -m "redme"
+   18  git branch -M master
+   19  git remote add origin https://github.com/MigonP/GitToturial.git
+   20  git push -u origin master
+   21  touch .gitignire
+   22  git commit -m "gitignor"
+   23  git push
+   24  git add
+   25  git add .
+   26  git commit -m "gitignor"
+   27  git log --oneline
+   28  git commit --amend
+   29  git status
+   30  git push
+   31  git branch development
+   32  ls
+   33  git branch
+   34  git checkout development
+   35  git branch
+   36  git add
+   37  touch s.txt
+   38  git add .
+   39  git commit -m 'nic'
+   40  git push
+   41  git push --set-upstream origin development 
+   42  git log
+   43  git log --oneline 
+   44  clear
+   45  git status
+   46  touch badfile
+   47  ls
+   48  git staus
+   49  git status
+   50  git add .
+   51  git branch
+   52  git checkout master
+   53  git status
+   54  git reset badfile
+   55  git status
+   56  git commit -m 'do usuniecia'
+   57  git add .
+   58  git commit -m 'do usuniecia'
+   59  git status
+   60  git log --oneline 
+   61  git reset HEAD~1
+   62  git log --oneline 
+   63  git status
+   64  history
+   65  history > gitComm
